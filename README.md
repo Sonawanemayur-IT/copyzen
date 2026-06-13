@@ -13,7 +13,7 @@
 - **No console window** – pure GUI, with optional custom taskbar icon.
 
 ## 📥 Download
-- **Windows (64‑bit)**: [Download CopyZen v1.0](https://github.com/yourusername/CopyZen/releases/download/v1.0/copyzen.exe)
+- **Windows (64‑bit)**: [Download CopyZen v1.0](https://github.com/Sonawanemayur-IT/copyzen/releases/download/v1.0/copyzen_v1.0.exe)
 
 ## 🚀 How to Use
 1. **Enable USB Debugging** on your Android device:
