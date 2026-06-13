@@ -43,7 +43,6 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 ## 🙏 Acknowledgements
 - [Android Platform Tools](https://developer.android.com/studio/releases/platform-tools) (ADB)
 - [PyInstaller](https://pyinstaller.org/)
-- Custom font: Bellfast
-
+  
 ## 📧 Contact
 Open an issue on GitHub for bug reports or feature requests.
